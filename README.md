@@ -20,7 +20,7 @@ The repository includes country-specific CSV files containing Starbucks location
 
 ## Data Source
 
-The data in this repository is derived from [bizlocationdb.com](https://www.bizlocationdb.com), made freely available under MIT License.
+The data in this repository is derived from [BizLocationDb](https://www.bizlocationdb.com), made freely available under MIT License. The full dataset for all worldwide locations can be checked from [bizlocationdb.com](https://www.bizlocationdb.com).
 
 ## License
 
